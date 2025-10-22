@@ -82,8 +82,6 @@ You can find the workflow file in `.github/workflows/ci-cd.yaml`.
 ## 🎥 Video Reference
 
 📺 **YouTube:** [DevOps from Zero to Hero — Build & Deploy a Production API](https://youtu.be/H5FAxTBuNM8?si=5ogYoZJQKt992GVJ)
-By *TechWorld with Nana*
-
 ---
 
 ## 🧠 Notes
